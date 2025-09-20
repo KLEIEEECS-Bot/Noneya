@@ -8,10 +8,6 @@ A powerful and intuitive application for monitoring cryptocurrency markets, offe
 
 * **Real-time Dashboard**: A dynamic and intuitive dashboard provides a visual overview of market trends with real-time price monitoring and visual analytics.
 
-* **Predictive Modeling**: Utilizes regression-based techniques to offer predictive insights into potential future price movements.
-
-* **Correlation Analysis**: A built-in correlation model helps you study the relationships between different cryptocurrencies, allowing you to identify diversification or trading opportunities.
-
 * **News-Driven Insights**: Get notifications based on relevant news headlines, providing context for sudden price swings.
 
 * **Lightweight Web Extension**: The accompanying browser extension provides a quick and easy way to check the current price of your selected cryptocurrency without opening the full application.
