@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Sans:wght@400;500;600&display=swap');
+
+body {
+  font-family: 'Geist Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f7f8fa;
+  color: #1a202c;
+  width: 380px;
+  height: 320px;
+  border-radius: 16px;
+  overflow: hidden;
+  position: relative;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #1d4ed8;
+  font-weight: 600;
+  text-align: center;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 20px;
+  font-size: 0.9em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+button:hover {
+  background-color: #1d4ed8;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+}
+
+select {
+  font-size: 1.3em;
+  padding: 12px 16px;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  width: 100%;
+  background-color: white;
+  color: #1a202c;
+  font-weight: 500;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.2s ease;
+}
+
+select:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+#cryptoPrice {
+  margin-top: 16px;
+  padding: 16px;
+  font-size: 1.4em;
+  color: #1a202c;
+  font-weight: 600;
+  background: white;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+.visit-link {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1.2em;
+  color: #64748b;
+  text-align: center;
+}
+
+.visit-link a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.visit-link a:hover {
+  text-decoration: underline;
+}

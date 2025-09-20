@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Noneya Companion",
+  "version": "1.0",
+  "description": "Returns crypto prices.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  }
+}
