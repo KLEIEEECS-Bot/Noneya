@@ -1,6 +1,6 @@
 # Crypto Price Alert Assistant
 
-A powerful and intuitive application for monitoring cryptocurrency markets, offering proactive insights and customizable alerts. This project goes beyond basic tracking by integrating real-time analytics, predictive modeling, and news-driven insights to empower smarter investment decisions.
+A powerful and intuitive application for monitoring cryptocurrency markets, offering proactive insights and customizable alerts. This project goes beyond basic tracking by integrating real-time analytics, and news-driven insights to empower smarter investment decisions.
 
 ## Features
 
@@ -11,3 +11,9 @@ A powerful and intuitive application for monitoring cryptocurrency markets, offe
 * **News-Driven Insights**: Get notifications based on relevant news headlines, providing context for sudden price swings.
 
 * **Lightweight Web Extension**: The accompanying browser extension provides a quick and easy way to check the current price of your selected cryptocurrency without opening the full application.
+
+## Techstack
+
+* **Next.js**: Front-end 
+* **APIs**: To fetch the Crypto data
+* **HTML-CSS**: Web Extension
