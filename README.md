@@ -1,4 +1,4 @@
-# Noneya
+# Noneya (noneya.vercel.app)
 
 A powerful and intuitive application for monitoring cryptocurrency markets, offering proactive insights and customizable alerts. This project goes beyond basic tracking by integrating real-time analytics, and news-driven insights to empower smarter investment decisions.
 
