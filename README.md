@@ -1,4 +1,4 @@
-# Crypto Price Alert Assistant
+# Noneya
 
 A powerful and intuitive application for monitoring cryptocurrency markets, offering proactive insights and customizable alerts. This project goes beyond basic tracking by integrating real-time analytics, and news-driven insights to empower smarter investment decisions.
 
@@ -15,5 +15,5 @@ A powerful and intuitive application for monitoring cryptocurrency markets, offe
 ## Techstack
 
 * **Next.js**: Front-end 
-* **APIs**: To fetch the Crypto data
-* **HTML-CSS**: Web Extension
+* **APIs**: To fetch the Crypto data (News-Messari, Crypto-CoinGecko)
+* **HTML-CSS**: Companion Web Extension (https://github.com/TheJonathanC/noneya-ext)
